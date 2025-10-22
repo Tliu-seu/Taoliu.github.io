@@ -23,7 +23,7 @@ repository               : "Tliu-seu/Tliu-seu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Tao Liu"
   pronouns         : # example: "she/her"  
   bio              : "Master’s student in AI at Southeast University, PALM Lab."
